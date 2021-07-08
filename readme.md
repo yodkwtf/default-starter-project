@@ -4,7 +4,7 @@ A default starter project for my forntend apps just so I can get up and running 
 
 ## Preview
 
-[Starter Project - Live](https://svgtextanimation-dk.netlify.app/)
+[Starter Project - Live](https://yodkwtf.github.io/default-starter-project/)
 
 ## Elements Included
 
